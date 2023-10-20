@@ -1,0 +1,22 @@
+.card {
+  width: 250px;
+  height: 450px;
+  border: 1px solid grey;
+  margin: 5px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 4px grey;
+}
+
+.player-img {
+  width: 250px;
+}
+
+.card-btn {
+  padding: 9px 15px;
+  margin: 3px;
+  border: 1px solid antiquewhite;
+  background-color: chocolate;
+  border-radius: 3px;
+  position: bottom;
+  color: whitesmoke;
+}

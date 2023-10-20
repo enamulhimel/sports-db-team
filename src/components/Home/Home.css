@@ -1,0 +1,46 @@
+.home-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.search-input {
+  padding: 15px;
+  width: 50%;
+  /* border-color: darkgrey; */
+  border: 2px solid tomato;
+  border-radius: 5px;
+}
+
+.search-btn {
+  padding: 16px 18px;
+  background-color: blueviolet;
+  border: none;
+  margin-left: 2px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 600;
+}
+
+.cart {
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 10px;
+  margin-right: 10px;
+  box-shadow: 2px 2px 4px grey;
+}
+
+.cart-info-container {
+  display: flex;
+  justify-content: center;
+}
+
+.delete-btn {
+  border: 1px solid;
+  /* background-color: gray */
+  padding: 1px 1px;
+  margin-left: 2px;
+  border-radius: 1px;
+}
